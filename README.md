@@ -1,4 +1,9 @@
-# Links vídeo de apoio 1 - Backend
+# Monitoria
+
+Repositório criado como um template para os alunos do segundo semestre de 2024 de Banco de Dados 1.
+Foram gravados dois tutoriais nos quais explico como desenvolver o backend e o frontend de uma aplicação se integrando com o Postgres.
+
+## Links vídeo de apoio 1 - Backend
 
 - **Microsoft Build Tools para bibliotecas Python**  
   Ferramenta necessária para compilar algumas bibliotecas Python que exigem compilação com C++.  
