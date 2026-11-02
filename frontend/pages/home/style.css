@@ -3,3 +3,7 @@
     justify-content: center;
     align-items: center;
 }
+
+.containerPng img {
+    border-radius: 100px;
+}
